@@ -2,4 +2,5 @@ torch
 numpy
 pydub
 pyyaml
-librosa
+librosa==0.6
+numba==0.48
